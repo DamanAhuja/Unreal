@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/Blueprints/BP_door.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KG/R6XE98S2HCC8KSB1YMHD53.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LB/7D9B9WGN4MUKKX14U5F8UU.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/Blueprints/BP_scenario.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9W/VFH16BRS4TEREU0UUIW4RW.uasset",
+				"C:/Users/Daman/Documents/Unreal Projects/Blueprint/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset"
+			]
+		}
+	]
+}
